@@ -5,6 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Portfolio Under Construction Dec 2020
   <br><br>
   <a href="https://www.linkedin.com/in/aarongouldingcom/">View My LinkedIn Profile</a> 
-  
+permalink: /:categories/:year/:month/:day/:title/
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
