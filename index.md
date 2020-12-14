@@ -12,7 +12,7 @@
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>  COMMENTED OUT -->
 
 ---
-[The MUN iPad Project]<!-- (/pdf/sample_presentation.pdf) -->
+[The MUN iPad Project]  <!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 [The Commons Makerspace](http://example.com/)
