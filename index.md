@@ -5,17 +5,18 @@
 ### Major Projects 
 
 
-[Biped Sports](http://example.com/)
+[Biped Sports | 2014-17](http://example.com/)
 
 ---
-[The Commons Augmented Program](/sample_page)
+[The Commons Augmented Program | 2019-20](/sample_page)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>  COMMENTED OUT -->
 
 ---
-[The MUN iPad Project]  <!-- (/pdf/sample_presentation.pdf) -->
+[Memorial University iPad Project | 2010-11]  
+<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
-[The Commons Makerspace](http://example.com/)
+[The Commons Makerspace | 2015-19](http://example.com/)
 
 
 
@@ -34,6 +35,6 @@
 
 
 
----
+
 
 
