@@ -12,8 +12,7 @@
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>  COMMENTED OUT -->
 
 ---
-[Memorial University iPad Project | 2010-11]  
-<!-- (/pdf/sample_presentation.pdf) -->
+[The Memorial University iPad Project | 2010-11](http://example.com/)
 
 ---
 [The Commons Makerspace | 2015-19](http://example.com/)
