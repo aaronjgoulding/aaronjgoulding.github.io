@@ -1,10 +1,10 @@
 ### Major Projects 
 
 ---
-[Biped Sports | 2014-17](http://example.cm/)
+[Biped Sports | 2014-17](https://www.facebook.com/bipedsports)
 
 ---
-[The Commons Augmented Program | 2019-20](/sample_page)
+[The Commons Augmented Program | 2019-20](https://thecommons.mun.ca/augmented.php)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>  COMMENTED OUT -->
 
 ---
