@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/aarongouldingcom/">View My LinkedIn Profile</a> 
   <br><br>
-  <a href="contact.html">Contact Me</a>
+  <a href="contact.md">Contact Me</a>
 
 
 permalink: /:categories/:year/:month/:day/:title/
