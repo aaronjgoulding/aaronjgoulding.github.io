@@ -12,7 +12,7 @@ My report on the pilot project can be found [here](/pdf/AugmentedProgram-PilotYe
 [The Memorial University iPad Project | 2010-11](http://example.com/)
 
 ---
-[The Commons Makerspace | 2015-19](http://example.com/)
+[The Commons Makerspace | 2015-19](https://thecommons.mun.ca/makerspace.php)
 
 
 
@@ -21,9 +21,9 @@ My report on the pilot project can be found [here](/pdf/AugmentedProgram-PilotYe
 
 ### Minor Projects
 
-- [NFLD Sports Magazine](http://example.com/)
-- [Roundnet YYT](http://example.com/)
-- [Ultimate NL](http://example.com/)
+- [NFLD Sports Magazine](https://www.facebook.com/nfldsportsmag)
+- [Roundnet YYT](https://www.facebook.com/roundnetyyt)
+- [Ultimate NL](https://www.ultimatenl.ca/)
 
 
 ---
