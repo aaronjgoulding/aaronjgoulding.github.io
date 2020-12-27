@@ -2,6 +2,7 @@
 
 ---
 [Biped Sports | 2014-17](https://www.facebook.com/bipedsports)
+A retail running store that I started in St.John's NL to help fill a niche in the local running scene. 
 
 ---
 [The Commons Augmented Program | 2019-20](https://thecommons.mun.ca/augmented.php)
@@ -14,7 +15,7 @@ My report on the pilot project can be found [here](/pdf/AugmentedProgram-PilotYe
 
 ---
 [The Commons Makerspace | 2015-19](https://thecommons.mun.ca/makerspace.php)
-
+An area of The Commons that I helped pitch, plan, and impliment in order to provide tomorrow's technologies to Memorial students today.
 
 
 
