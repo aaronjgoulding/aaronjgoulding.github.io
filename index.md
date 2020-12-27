@@ -12,6 +12,7 @@ My report on the pilot project can be found [here](/pdf/AugmentedProgram-PilotYe
 
 ---
 [The Memorial University iPad Project | 2010-11](http://example.com/)
+A project that I pitched, planned, and implimented to study the opportunities that iPads offer in the classroom.
 
 ---
 [The Commons Makerspace | 2015-19](https://thecommons.mun.ca/makerspace.php)
