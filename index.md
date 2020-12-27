@@ -6,7 +6,7 @@
 ---
 [The Commons Augmented Program | 2019-20](https://thecommons.mun.ca/augmented.php)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>  COMMENTED OUT -->
-</br>
+<br>
 My report on the pilot project can be found [here](/pdf/AugmentedProgram-PilotYearReport.pdf)
 
 ---
